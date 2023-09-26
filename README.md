@@ -11,7 +11,7 @@ This is a code-based, comments as a supplement to the practical teaching, where 
 
 It is suitable for newcomers to the introduction of pandas, can also be used as a grammar set to query the use of syntax in pandas and examples. 
 
-The code runs on jupyter notebook. This has a number of advantages. Jupyter notebook can be run as a block of code, which is suitable for showing examples of grammar usage. Also, it has great visualisation capabilities. 
+The code runs on jupyter notebook. This has some advantages. Jupyter notebook can be run as a block of code, which is suitable for showing examples of grammar usage. Also, it has great visualisation capabilities. 
 
 If you want to read this tutorial on your mobile phone or tablet, the author has thoughtfully prepared a pdf version. 
 
